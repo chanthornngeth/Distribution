@@ -9,12 +9,12 @@
     },
     "repositories": [
         {
-            "type": "git",
-            "url": "git@github.com:chanthouNim/Flow.WebSocket.git"
+            "type": "composer",
+            "url": "http://packages.web-essentials.asia"
         }
     ],
     "require": {
-        "typo3/flow": "2.1.*",
+        "typo3/flow": "2.2.*",
         "flow/webSocket": "@dev",
         "typo3/welcome": "dev-master",
         "typo3/fluid": "@dev",
@@ -23,8 +23,8 @@
         "doctrine/migrations": "@dev"
     },
     "require-dev": {
-        "typo3/kickstart": "2.1.*",
-        "typo3/buildessentials": "2.1.*",
+        "typo3/kickstart": "2.2.*",
+        "typo3/buildessentials": "2.2.*",
         "mikey179/vfsstream": "1.2.*"
     },
     "suggest": {
