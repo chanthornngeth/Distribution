@@ -11,6 +11,10 @@
         {
             "type": "composer",
             "url": "http://packages.web-essentials.asia"
+        },
+        {
+          "type": "git",
+          "url": "https://github.com/chanthouNim/WE.Offline.git"
         }
     ],
     "require": {
