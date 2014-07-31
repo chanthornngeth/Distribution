@@ -15,11 +15,6 @@
     ],
     "require": {
         "typo3/flow": "2.2.*",
-        "flow/webSocket": "@dev",
-        "typo3/welcome": "dev-master",
-        "typo3/fluid": "@dev",
-        "typo3/party": "@dev",
-        "typo3/eel": "@dev",
         "doctrine/migrations": "@dev"
     },
     "require-dev": {
